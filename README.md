@@ -43,6 +43,3 @@ Este proyecto Java utiliza Spring Boot y Hibernate para gestionar una base de da
 
 Las contribuciones son bienvenidas. Si tienes sugerencias, mejoras o problemas, por favor abre un issue o una pull request.
 
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
